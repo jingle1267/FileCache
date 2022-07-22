@@ -1,6 +1,6 @@
-# FileCache-jingle1267
+# FileCache
 
-Small high-performance file caching tool for python.
+Small high-performance file caching tool for python. Sub table and sub database.
 
 ### Can do what?
 
