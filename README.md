@@ -9,6 +9,10 @@ You can set cache file easily, just focus on your business.
 ### How to use?
 
 #### 1. import
+```
+pip install demjson
+pip install FileCache-jingle1267
+```
 
 ```python
 from FileCache import FileCache
