@@ -11,6 +11,7 @@ You can set cache file easily, just focus on your business.
 #### 1. import
 ```
 pip install demjson
+pip install LogColorHelper-jingle1267
 pip install FileCache-jingle1267
 ```
 
